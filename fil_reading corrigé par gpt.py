@@ -5,13 +5,14 @@ def file2dic():
     with open('router.txt') as file:
         for line in file:
             line = line.strip()
-            line = line.split()
+            line = line.split(';')
             word = line[0]
             try:
                 tup = (line[2], line[3], line[4])
             except IndexError:  # Utiliser IndexError pour capturer l'erreur spécifique
                 tup = int(line[2])
             dic[word] = tup
+
 
 def print_tuple(key):
     a, b, c = dic[key]

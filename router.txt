@@ -1,18 +1,18 @@
-Linksys  router	http://192.168.1.1	admin	admin
-Asus     router	http://192.168.1.1	admin	admin
-Tp-link  router  2
-Tp-link0 router http://192.168.1.1	admin	admin
-Tp-link1 router	http://192.168.0.1	admin	admin
-Cisco    router	http://192.168.1.1	admin	admin
-3Com     router	http://192.168.1.1	admin	admin
-Belkin   router	http://192.168.2.1	admin	admin
-BenQ     router	http://192.168.1.1	admin	admin
-D-Link   router	http://192.168.0.1	admin	admin
-Digicom  router 3
-Digicom0 router	http://192.168.1.254	utilisateur	"mot de passe"
-Digicom1 router	http://192.168.1.254	admin	michelangelo
-Digicom2 router http://192.168.1.254	user	password
-Sitecom  router 2
-Sitecom0 router	http://192.168.0.1	admin	admin
-Sitecom1 router	http://192.168.0.1	sitecom	admin
-Thomson  router	http://192.168.1.254	utilisateur utilisateur
+Linksys;router;http://192.168.1.1;admin;admin
+Asus;router;http://192.168.1.1;admin;admin
+Tp-link;router;2
+Tp-link0;router;http://192.168.1.1;admin;admin
+Tp-link1;router;http://192.168.0.1;admin;admin
+Cisco;router;http://192.168.1.1;admin;admin
+3Com;router;http://192.168.1.1;admin;admin
+Belkin;router;http://192.168.2.1;admin;admin
+BenQ;router;http://192.168.1.1;admin;admin
+D-Link;router;http://192.168.0.1;admin;admin
+Digicom;router;3
+Digicom0;router;http://192.168.1.254;utilisateur;mot de passe
+Digicom1;router;http://192.168.1.254;admin;michelangelo
+Digicom2;router;http://192.168.1.254;user;password
+Sitecom;router;2
+Sitecom0;router;http://192.168.0.1;admin;admin
+Sitecom1;router;http://192.168.0.1;sitecom;admin
+Thomson;router;http://192.168.1.254;utilisateur;utilisateur
